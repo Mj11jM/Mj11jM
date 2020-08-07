@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![Mj11jM's github stats](https://github-readme-stats.vercel.app/api?username=mj11jm&count_private=true&show_icons=true)
 <!--
 **Mj11jM/Mj11jM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
