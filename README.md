@@ -1,6 +1,6 @@
 
 ![Mj11jM's github stats](https://github-readme-stats.vercel.app/api?username=Mj11jM&count_private=true&show_icons=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mj11jM&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mj11jM)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Mj11jM/Mj11jM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
